@@ -1,0 +1,38 @@
+[2025-05-06 13:41:01] Initial scan complete.
+[2025-05-06 13:41:01] Monitoring started...
+[2025-05-06 13:43:06] Initial scan complete.
+[2025-05-06 13:43:06] Monitoring started...
+[2025-05-06 13:43:54] Initial scan complete.
+[2025-05-06 13:43:54] Monitoring started...
+[2025-05-06 14:07:39] Loaded hash database with 0 entries
+[2025-05-06 14:07:51] Monitoring started...
+[2025-05-06 14:08:34] Error calculating hash for ./watch_dir\New Text Document.txt: [Errno 13] Permission denied: './watch_dir\\New Text Document.txt'
+[2025-05-06 14:08:55] Monitoring stopped.
+[2025-05-06 14:09:35] Monitoring started...
+[2025-05-06 14:09:51] New file added: test2.txt
+[2025-05-06 14:10:05] Integrity check complete. All files intact.
+[2025-05-06 14:10:20] File modified: test2.txt
+[2025-05-06 14:10:27] Integrity check complete. All files intact.
+[2025-05-06 14:10:36] Initial scan complete. 2 files indexed.
+[2025-05-06 14:11:39] File deleted: test2.txt
+[2025-05-06 14:11:48] Integrity check complete. All files intact.
+[2025-05-06 14:11:51] Initial scan complete. 1 files indexed.
+[2025-05-06 14:12:06] Integrity check complete. All files intact.
+[2025-05-06 14:13:06] Monitoring stopped.
+[2025-05-06 14:13:06] Changed monitored directory to: C:/Users/91913/Desktop/nishita_project
+[2025-05-06 14:13:06] Monitoring started...
+[2025-05-06 14:13:25] New file added: ocean.mp4
+[2025-05-06 14:13:39] Error saving hash database: dictionary changed size during iteration
+[2025-05-06 14:14:09] Error saving hash database: dictionary changed size during iteration
+[2025-05-06 14:14:39] Error saving hash database: dictionary changed size during iteration
+[2025-05-06 14:14:50] Monitoring stopped.
+[2025-05-06 14:14:50] Error saving hash database: dictionary changed size during iteration
+[2025-05-06 14:14:55] Initial scan complete. 5459 files indexed.
+[2025-05-06 14:16:29] Loaded hash database with 5460 entries
+[2025-05-06 14:16:39] Changed monitored directory to: C:/Users/91913/Desktop/sample
+[2025-05-06 14:17:28] Initial scan complete. 1 files indexed.
+[2025-05-06 14:17:37] Integrity check complete. Found 5460 issues.
+[2025-05-06 14:17:48] Monitoring started...
+[2025-05-06 14:17:59] Initial scan complete. 1 files indexed.
+[2025-05-06 14:18:49] Integrity check complete. Found 1 issues.
+[2025-05-06 14:43:39] Monitoring stopped.
